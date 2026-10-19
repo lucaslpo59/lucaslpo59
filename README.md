@@ -17,7 +17,7 @@ Procuro uma vaga na área de **TI e suporte**.
 |---|---|
 | [scripts-suporte-ti](https://github.com/lucaslpo59/scripts-suporte-ti) | Scripts PowerShell e Bash para inventário de PC, diagnóstico de rede, limpeza de disco, backup e saúde de servidor |
 | [guia-vps-linux](https://github.com/lucaslpo59/guia-vps-linux) | Como eu configuro e mantenho servidores Ubuntu: segurança, Nginx, serviços, deploy, backup e migração |
-| [EatsGo](https://eatsgo.com.br) | Plataforma de delivery que criei: painel administrativo, apps Android para cliente, loja e entregador, API e pagamentos via PIX (código privado) |
+| [EatsGo](https://github.com/lucaslpo59/eatsgo) | Plataforma de delivery que criei: painel administrativo, apps Android para cliente, loja e entregador, API e pagamentos via PIX. Página com prints e arquitetura (código privado) |
 
 ### Ferramentas
 
